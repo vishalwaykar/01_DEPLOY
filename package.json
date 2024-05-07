@@ -1,0 +1,23 @@
+{
+  "name": "deploybackend",
+  "version": "1.0.0",
+  "description": "a basic backend application to learn the deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deployment",
+    "backend",
+    "javascript",
+    "node"
+  ],
+  "author": "Vishal Waykar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "express": "^4.19.2"
+  }
+}
